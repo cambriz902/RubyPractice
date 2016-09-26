@@ -1,5 +1,5 @@
 require 'set'
-require '../DataStructures/word_graph.rb'
+require './word_graph.rb'
 
 # this algorithms makes the assumption that secret word
 # contains all unique characters and enough hints

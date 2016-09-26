@@ -1,4 +1,4 @@
-require '../DataStructures/graph_node.rb'
+require './graph_node.rb'
 
 class WordGraph
 
